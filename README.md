@@ -1,5 +1,5 @@
 # Login Site using Nodejs and MySQL
-===================================
+
 Nodejs와 MySQL을 사용하여 미니 트위터 구현하기  
 Implementing a Mini Tweeter using Nodejs and MySQL
 
@@ -12,3 +12,6 @@ The newly created project doesn't work properly
 
 따라서 기존 실습에 사용했었던 프로젝트를 그대로 가져와서 코드를 수정하기로 함  
 Therefore, I plan to modify codes by importing the project that I used in the practicing codes.
+
+nodejs_modules은 파일의 크기가 커서 올리지 않음.  
+Nodejs_modules is too big to be not uploaded.
