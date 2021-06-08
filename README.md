@@ -16,7 +16,7 @@ Therefore, I plan to modify codes by importing the project that I used in the pr
 Node_modules은 파일의 크기가 커서 올리지 않음.  
 Node_modules is too big to be not uploaded.  
 
-## 2021-06-08
+## 2021-06-08 Tue
 메인화면, 로그인, 회원가입 구현  
 Implements main_tweet, login, signup  
 
