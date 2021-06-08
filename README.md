@@ -13,10 +13,15 @@ The newly created project doesn't work properly
 따라서 기존 실습에 사용했었던 프로젝트를 그대로 가져와서 코드를 수정하기로 함  
 Therefore, I plan to modify codes by importing the project that I used in the practicing codes.  
 
-nodejs_modules은 파일의 크기가 커서 올리지 않음.  
-Nodejs_modules is too big to be not uploaded.  
+Node_modules은 파일의 크기가 커서 올리지 않음.  
+Node_modules is too big to be not uploaded.  
 
 ## 2021-06-08
 메인화면, 로그인, 회원가입 구현  
+Implements main_tweet, login, signup  
 
 회원가입 유효성 검사는 추후로 미룸  
+The validation part of the membershipt registration will be developed later  
+
+node_modules를 zip파일로 업로드  
+Upload node_modules by zip file  
