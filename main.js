@@ -30,6 +30,20 @@ var app = http.createServer(function(request,response){
       signup.signup_process(request, response);
     } else if(pathname === '/signup_failure'){
       signup.signup_failure(request, response);
+    } else if(pathname === '/create'){
+      tweet.create(request, response);
+    } else if(pathname === '/create_process'){
+      tweet.create_process(request, response);
+    } else if(pathname === '/update'){
+      tweet.update(request, response);
+    } else if(pathname === '/update_process'){
+      tweet.update_process(request, response);
+    } else if(pathname === '/delete_process'){
+      tweet.delete(request, response);
+    } else if(pathname === '/follow_process'){
+      tweet.follow_process(request, response);
+    } else if(pathname === '/unfollow_process'){
+      tweet.unfollow_process(request, response);
     } else {
       response.writeHead(404);
       response.end('Not found');
