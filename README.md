@@ -51,5 +51,7 @@ Miswrite value as values at form because of MySQL
 Implementing follow/unfollow, CRUD feeds about followers  
 
 ## 2021-06-12 Sat
-시간 관계상 마무리 짓기로 함.
-Finish the project because of time issue.
+시간 관계상 마무리 짓기로 함.  
+Finish the project because of time issue.  
+
+동영상 링크: https://youtu.be/QSgF6xyVejk
