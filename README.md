@@ -50,4 +50,6 @@ Miswrite value as values at form because of MySQL
 팔로우/언팔로우, 팔로우한 사람에 따라서 피드 목록 보이기 구현. 피드 생성,수정,삭제 구현.  
 Implementing follow/unfollow, CRUD feeds about followers  
 
-남은 구현 사항: 피드에 대한 페이징, 회원가입 유효성 검사.
+## 2021-06-12 Sat
+시간 관계상 마무리 짓기로 함.
+Finish the project because of time issue.
